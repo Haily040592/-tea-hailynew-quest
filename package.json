@@ -1,6 +1,6 @@
 {
   "name": "@haily/-tea-hailynew-quest",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
   "main": "index.js",
   "scripts": {
